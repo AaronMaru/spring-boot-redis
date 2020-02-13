@@ -1,8 +1,9 @@
 package com.maru.cache.redis.model;
 
-import javax.persistence.*;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
 import java.io.Serializable;
-import java.lang.annotation.Target;
 
 /**
  * Created by : maru

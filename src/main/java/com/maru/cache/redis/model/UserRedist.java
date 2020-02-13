@@ -3,7 +3,6 @@ package com.maru.cache.redis.model;
 import org.springframework.data.redis.core.RedisHash;
 
 import javax.persistence.Id;
-import java.io.Serializable;
 
 /**
  * Created by : maru
